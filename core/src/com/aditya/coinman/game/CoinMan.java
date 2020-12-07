@@ -29,7 +29,7 @@ public class CoinMan extends ApplicationAdapter {
 
 	//int manState; will handle the animation of our character based on the Texture array position of our man
 	int manState;
-	//pausing our app fora shor amount of time because the animation is way to fast and its gonna drain hell out of the device's battery energy way too fast
+	//pausing our app fora short amount of time because the animation is way to fast and its gonna drain hell out of the device's battery energy way too fast
 	int pause = 0;
 
 	//**now importing adreno openCL physX engine**
